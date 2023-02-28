@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4742e97102f9b9e4db7c725846ae48bc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: "<svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\"
+    xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 1209.95 2619.21\">\r\n
+    \ <defs>\r\n    <linearGradient id=\"linear-gradient\" x1=\"604.97\" y1=\"2379.63\"
+    x2=\"604.97\" y2=\"-239.58\" gradientUnits=\"userSpaceOnUse\">\r\n      <stop
+    offset=\"0.16\"/>\r\n      <stop offset=\"0.52\" stop-opacity=\"0.78\"/>\r\n      <stop
+    offset=\"1\" stop-opacity=\"0\"/>\r\n    </linearGradient>\r\n  </defs>\r\n  <title>Main
+    Page </title>\r\n  <rect width=\"1209.95\" height=\"2619.21\" opacity=\"0.85\"
+    fill=\"url(#linear-gradient)\"/>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 
