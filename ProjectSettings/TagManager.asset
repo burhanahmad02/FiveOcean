@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PrefabPools
+  - FxTemporaire
+  - eyedestroyer
+  - log
+  - Missile
+  - EnemyMissile
+  - Enemy
+  - Water
+  - RedEnemy
+  - YellowEnemy
+  - UISub
+  - HelicopterEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cover
+  - Scope
+  - Character
+  - Zone
+  - Opener
+  - Head
+  - Eye
+  - Pipe
+  - Pieces
+  - Enemy
+  - Player
+  - EnemyMissile
+  - Missile
+  - WaterPhysics
+  - Effects
+  - Text
+  - PostProcessing
+  - fish
+  - MineMissile
+  - fishflock
+  - Radar
+  - Minimap
+  - Cambox
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particle
+    uniqueID: 999986113
+    locked: 0
+  - name: UI
+    uniqueID: 413477261
+    locked: 0
+  - name: DistortionEffect
+    uniqueID: 441991679
+    locked: 0
+  - name: Water
+    uniqueID: 2113724175
+    locked: 0
+  - name: Radar
+    uniqueID: 3596335719
+    locked: 0

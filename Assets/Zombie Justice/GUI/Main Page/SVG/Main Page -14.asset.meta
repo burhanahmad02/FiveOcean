@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: d093554d5e6e19f4894e989bebde42a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"
+    viewBox=\"0 0 162.01 132.94\">\r\n  <defs>\r\n    <filter id=\"luminosity-noclip\"
+    x=\"13.96\" y=\"-6426.04\" width=\"132.94\" height=\"32766\" filterUnits=\"userSpaceOnUse\"
+    color-interpolation-filters=\"sRGB\">\r\n      <feFlood flood-color=\"#fff\" result=\"bg\"/>\r\n
+    \     <feBlend in=\"SourceGraphic\" in2=\"bg\"/>\r\n    </filter>\r\n    <mask
+    id=\"mask\" x=\"13.96\" y=\"-6426.04\" width=\"132.94\" height=\"32766\" maskUnits=\"userSpaceOnUse\">\r\n
+    \     <g filter=\"url(#luminosity-noclip)\"/>\r\n    </mask>\r\n    <radialGradient
+    id=\"radial-gradient\" cx=\"-8374.75\" cy=\"66.47\" r=\"66.47\" gradientTransform=\"matrix(-1,
+    0, 0, 1, -8294.32, 0)\" gradientUnits=\"userSpaceOnUse\">\r\n      <stop offset=\"0\"
+    stop-color=\"#fff\"/>\r\n      <stop offset=\"0.56\" stop-color=\"#fff\"/>\r\n
+    \     <stop offset=\"1\"/>\r\n    </radialGradient>\r\n    <filter id=\"luminosity-noclip-2\"
+    x=\"41.09\" y=\"-6426.04\" width=\"78.68\" height=\"32766\" filterUnits=\"userSpaceOnUse\"
+    color-interpolation-filters=\"sRGB\">\r\n      <feFlood flood-color=\"#fff\" result=\"bg\"/>\r\n
+    \     <feBlend in=\"SourceGraphic\" in2=\"bg\"/>\r\n    </filter>\r\n    <mask
+    id=\"mask-2\" x=\"41.09\" y=\"-6426.04\" width=\"78.68\" height=\"32766\" maskUnits=\"userSpaceOnUse\">\r\n
+    \     <g filter=\"url(#luminosity-noclip-2)\"/>\r\n    </mask>\r\n    <radialGradient
+    id=\"radial-gradient-2\" cx=\"-8374.75\" cy=\"66.47\" r=\"39.34\" gradientTransform=\"matrix(-1,
+    0, 0, 1, -8294.32, 0)\" gradientUnits=\"userSpaceOnUse\">\r\n      <stop offset=\"0\"
+    stop-color=\"#fff\"/>\r\n      <stop offset=\"1\"/>\r\n    </radialGradient>\r\n
+    \   <linearGradient id=\"New_Gradient_Swatch_2\" data-name=\"New Gradient Swatch
+    2\" x1=\"-8006.44\" y1=\"-3781.94\" x2=\"-8006.44\" y2=\"-3710.6\" gradientTransform=\"matrix(1,
+    0, 0, -1, 8087.44, -3679.8)\" gradientUnits=\"userSpaceOnUse\">\r\n      <stop
+    offset=\"0.02\" stop-color=\"#bfbebe\"/>\r\n      <stop offset=\"0.14\" stop-color=\"#4c565d\"/>\r\n
+    \     <stop offset=\"0.27\" stop-color=\"#96a4ac\"/>\r\n      <stop offset=\"0.38\"
+    stop-color=\"#fff\"/>\r\n      <stop offset=\"0.47\" stop-color=\"#fff\"/>\r\n
+    \     <stop offset=\"0.61\" stop-color=\"#717171\"/>\r\n      <stop offset=\"0.72\"
+    stop-color=\"#444442\"/>\r\n      <stop offset=\"0.83\" stop-color=\"#828282\"/>\r\n
+    \     <stop offset=\"0.9\" stop-color=\"#d5d4d4\"/>\r\n      <stop offset=\"1\"
+    stop-color=\"#403f3a\"/>\r\n    </linearGradient>\r\n    <clipPath id=\"clip-path\">\r\n
+    \     <rect x=\"63.04\" y=\"30.8\" width=\"31.28\" height=\"71.34\" fill=\"none\"/>\r\n
+    \   </clipPath>\r\n    <filter id=\"luminosity-noclip-3\" x=\"13.96\" y=\"0\"
+    width=\"132.94\" height=\"132.94\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n
+    \     <feFlood flood-color=\"#fff\" result=\"bg\"/>\r\n      <feBlend in=\"SourceGraphic\"
+    in2=\"bg\"/>\r\n    </filter>\r\n    <mask id=\"mask-3\" x=\"13.96\" y=\"0\" width=\"132.94\"
+    height=\"132.94\" maskUnits=\"userSpaceOnUse\">\r\n      <g mask=\"url(#mask)\"
+    filter=\"url(#luminosity-noclip-3)\">\r\n        <circle cx=\"80.43\" cy=\"66.47\"
+    r=\"66.47\" fill=\"url(#radial-gradient)\" style=\"mix-blend-mode: multiply\"/>\r\n
+    \     </g>\r\n    </mask>\r\n    <radialGradient id=\"radial-gradient-3\" cx=\"-8374.75\"
+    cy=\"66.47\" r=\"66.47\" gradientTransform=\"matrix(-1, 0, 0, 1, -8294.32, 0)\"
+    gradientUnits=\"userSpaceOnUse\">\r\n      <stop offset=\"0\"/>\r\n      <stop
+    offset=\"0.56\"/>\r\n      <stop offset=\"1\" stop-color=\"#fff\"/>\r\n    </radialGradient>\r\n
+    \   <linearGradient id=\"New_Gradient_Swatch_2-2\" x1=\"-8344.31\" y1=\"96.92\"
+    x2=\"-8405.19\" y2=\"36.03\" gradientTransform=\"matrix(-1, 0, 0, 1, -8294.32,
+    0)\" xlink:href=\"#New_Gradient_Swatch_2\"/>\r\n    <linearGradient id=\"linear-gradient\"
+    x1=\"-8404.91\" y1=\"96.63\" x2=\"-8344.59\" y2=\"36.31\" gradientTransform=\"matrix(-1,
+    0, 0, 1, -8294.32, 0)\" gradientUnits=\"userSpaceOnUse\">\r\n      <stop offset=\"0\"
+    stop-color=\"#252b28\"/>\r\n      <stop offset=\"0.1\" stop-color=\"#383d3a\"/>\r\n
+    \     <stop offset=\"0.72\" stop-color=\"#aeafac\"/>\r\n      <stop offset=\"1\"
+    stop-color=\"#deddd9\"/>\r\n    </linearGradient>\r\n    <linearGradient id=\"linear-gradient-2\"
+    x1=\"-8388.22\" y1=\"79.94\" x2=\"-8361.28\" y2=\"53\" gradientTransform=\"matrix(-1,
+    0, 0, 1, -8294.32, 0)\" gradientUnits=\"userSpaceOnUse\">\r\n      <stop offset=\"0\"
+    stop-color=\"#252b28\"/>\r\n      <stop offset=\"0.36\" stop-color=\"#374345\"/>\r\n
+    \     <stop offset=\"1\" stop-color=\"#536a74\"/>\r\n    </linearGradient>\r\n
+    \   <filter id=\"luminosity-noclip-4\" x=\"41.09\" y=\"27.13\" width=\"78.68\"
+    height=\"78.68\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\r\n
+    \     <feFlood flood-color=\"#fff\" result=\"bg\"/>\r\n      <feBlend in=\"SourceGraphic\"
+    in2=\"bg\"/>\r\n    </filter>\r\n    <mask id=\"mask-4\" x=\"41.09\" y=\"27.13\"
+    width=\"78.68\" height=\"78.68\" maskUnits=\"userSpaceOnUse\">\r\n      <g mask=\"url(#mask-2)\"
+    filter=\"url(#luminosity-noclip-4)\">\r\n        <circle cx=\"80.43\" cy=\"66.47\"
+    r=\"39.34\" fill=\"url(#radial-gradient-2)\" style=\"mix-blend-mode: multiply\"/>\r\n
+    \     </g>\r\n    </mask>\r\n    <radialGradient id=\"radial-gradient-4\" cx=\"-8374.75\"
+    cy=\"66.47\" r=\"39.34\" gradientTransform=\"matrix(-1, 0, 0, 1, -8294.32, 0)\"
+    gradientUnits=\"userSpaceOnUse\">\r\n      <stop offset=\"0\"/>\r\n      <stop
+    offset=\"1\" stop-color=\"#fff\"/>\r\n    </radialGradient>\r\n    <linearGradient
+    id=\"linear-gradient-3\" x1=\"2327.8\" y1=\"-3148.69\" x2=\"2343.32\" y2=\"-3165.23\"
+    gradientTransform=\"matrix(1, -0.1, -0.1, -1, -2559.56, -2841.5)\" xlink:href=\"#linear-gradient\"/>\r\n
+    \   <linearGradient id=\"linear-gradient-4\" x1=\"-8368.89\" y1=\"72.34\" x2=\"-8380.62\"
+    y2=\"60.6\" xlink:href=\"#linear-gradient\"/>\r\n    <linearGradient id=\"linear-gradient-5\"
+    x1=\"-8382.64\" y1=\"66.47\" x2=\"-8366.88\" y2=\"66.47\" xlink:href=\"#linear-gradient\"/>\r\n
+    \   <radialGradient id=\"radial-gradient-5\" cx=\"-124.58\" cy=\"-6032.22\" r=\"6.59\"
+    gradientTransform=\"matrix(0.68, -0.74, -0.74, -0.68, -4269.39, -4114.95)\" gradientUnits=\"userSpaceOnUse\">\r\n
+    \     <stop offset=\"0.01\" stop-color=\"#c9cccf\"/>\r\n      <stop offset=\"0.45\"
+    stop-color=\"#888a8b\"/>\r\n      <stop offset=\"0.82\" stop-color=\"#595a59\"/>\r\n
+    \     <stop offset=\"1\" stop-color=\"#474846\"/>\r\n    </radialGradient>\r\n
+    \ </defs>\r\n  <title>Main Page </title>\r\n  <g style=\"isolation: isolate\">\r\n
+    \   <g id=\"Layer_1\" data-name=\"Layer 1\">\r\n      <g>\r\n        <rect y=\"30.8\"
+    width=\"162.01\" height=\"71.34\" fill=\"url(#New_Gradient_Swatch_2)\"/>\r\n        <g
+    clip-path=\"url(#clip-path)\">\r\n          <g mask=\"url(#mask-3)\">\r\n            <circle
+    cx=\"80.43\" cy=\"66.47\" r=\"66.47\" opacity=\"0.65\" fill=\"url(#radial-gradient-3)\"
+    style=\"mix-blend-mode: multiply\"/>\r\n          </g>\r\n        </g>\r\n        <path
+    d=\"M80.43,109.55A43.08,43.08,0,1,0,37.35,66.47,43.13,43.13,0,0,0,80.43,109.55Z\"
+    fill=\"url(#New_Gradient_Swatch_2-2)\"/>\r\n        <path d=\"M37.77,66.47A42.65,42.65,0,1,0,80.43,23.82,42.65,42.65,0,0,0,37.77,66.47Z\"
+    fill=\"url(#linear-gradient)\"/>\r\n        <path d=\"M61.38,66.47a19,19,0,1,0,19-19A19,19,0,0,0,61.38,66.47Z\"
+    fill=\"url(#linear-gradient-2)\"/>\r\n        <g mask=\"url(#mask-4)\">\r\n          <circle
+    cx=\"80.43\" cy=\"66.47\" r=\"39.34\" opacity=\"0.65\" fill=\"url(#radial-gradient-4)\"
+    style=\"mix-blend-mode: multiply\"/>\r\n        </g>\r\n        <path d=\"M93.25,65.18A12.89,12.89,0,1,0,81.71,79.3,12.87,12.87,0,0,0,93.25,65.18Z\"
+    fill=\"url(#linear-gradient-3)\"/>\r\n        <path d=\"M80.41,79a10.64,10.64,0,0,0,1.26-.07A12.48,12.48,0,0,0,80.44,54a10.93,10.93,0,0,0-1.27.07A12.48,12.48,0,0,0,80.41,79Z\"
+    fill=\"#c1272d\" stroke=\"#42413c\" stroke-width=\"0.28\" style=\"mix-blend-mode:
+    multiply\"/>\r\n        <path d=\"M86.54,72.09a8.3,8.3,0,1,1-.48-11.72A8.3,8.3,0,0,1,86.54,72.09Z\"
+    fill=\"url(#linear-gradient-4)\"/>\r\n        <path d=\"M80.43,74.35a7.87,7.87,0,1,0-5.35-2.09,7.94,7.94,0,0,0,5.35,2.09Z\"
+    stroke=\"#42413c\" stroke-width=\"0.28\" fill=\"url(#linear-gradient-5)\"/>\r\n
+    \       <path d=\"M85.28,70.94a6.6,6.6,0,1,1-.38-9.31A6.6,6.6,0,0,1,85.28,70.94Z\"
+    fill=\"url(#radial-gradient-5)\"/>\r\n      </g>\r\n    </g>\r\n  </g>\r\n</svg>\r\n"
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75891a366031dc14097aed71ba05f944, type: 3}
+  m_Name: Swim
+  m_EditorClassIdentifier: 
+  name: Swim
+  cooldownTime: 15
+  activeTime: 10
+  speed: 20
+  rotSmoothing: 20
+  waterPhysics: {fileID: 2022841660384483842, guid: 71e6709c2e3956348a2226a821150878,
+    type: 3}
